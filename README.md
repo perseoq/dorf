@@ -16,7 +16,7 @@ Opciones:
 ## Compila
 ```
 g++ dorf.cpp -o dorf -std=c++17
-sudo mv dof /usr/local/bin/
+sudo mv dorf /usr/local/bin/
 ```
 
 ## Uso
