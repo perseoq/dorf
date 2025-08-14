@@ -1,8 +1,9 @@
+# dorf (directory or file)
 
+`dorf` es una utilidad de línea de comandos para verificar si una ruta en el sistema de archivos es un **directorio**, un **archivo**, o si **no existe**.  
 
-# DORF
+## USO BÁSICO
 ```sh
-USO:
 dorf --path /ruta/app
 
 Opciones:
